@@ -1,4 +1,4 @@
-# 🚴 AdventureWorks Executive BI Dashboard
+# AdventureWorks Executive BI Dashboard
 > **Transforming raw retail data into a scalable, interactive business intelligence solution.**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
